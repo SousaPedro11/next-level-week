@@ -121,7 +121,7 @@ $ npm start
 
 ---
 
-Made with :heart: and :runner: by Pedro Sousa :wave: [Get in touch!](https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/)
+Made with :heart: and :runner: by Pedro Sousa :wave: <a href="https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/" target="_blank">Get in touch!</a>
 
 [nodejs]: https://nodejs.org/
 [vc]: https://code.visualstudio.com/
