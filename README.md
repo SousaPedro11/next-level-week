@@ -42,6 +42,17 @@ This prototype was created by Rocketseat designer.
 
 - [Ecoleta](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/?viewer=1&node-id=)
 
+## :wrench: Development Environment
+
+This is the development environment used in the project.
+- [ArchLinux](https://www.archlinux.org/)
+- [VS Code][vc] with [Omni](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) theme
+- [Node,Js][nodejs]
+- [npm][npm]
+- [Expo](https://expo.io/)
+- [Insomnia](https://insomnia.rest/)
+- [Dbeaver](https://dbeaver.io/)
+
 ## :rocket: Technologies
 
 This project was developed at the **Next Level Week #1** by [Rockseat](https://rocketseat.com.br/) using the following technologies:
@@ -51,17 +62,6 @@ This project was developed at the **Next Level Week #1** by [Rockseat](https://r
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Leaflet](https://leafletjs.com/examples/quick-start/)
-
-## :wrench: Development Environment
-
-These tools were essential for the development of the entire project.
-- [ArchLinux](https://www.archlinux.org/)
-- [VS Code][vc] with [Omni](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) theme
-- [Node,Js][nodejs]
-- [npm][npm]
-- [Expo](https://expo.io/)
-- [Insomnia](https://insomnia.rest/)
-- [Dbeaver](https://dbeaver.io/)
 
 ## :cloud: External API
 
