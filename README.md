@@ -47,7 +47,7 @@ This prototype was created by Rocketseat designer.
 This is the development environment used in the project.
 - [ArchLinux](https://www.archlinux.org/)
 - [VS Code][vc] with [Omni](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni) theme
-- [Node,Js][nodejs]
+- [Node.js][nodejs]
 - [npm][npm]
 - [Expo](https://expo.io/)
 - [Insomnia](https://insomnia.rest/)
