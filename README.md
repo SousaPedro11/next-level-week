@@ -47,7 +47,7 @@ This prototype was created by Rocketseat designer.
 This project was developed at the **Next Level Week #1** by [Rockseat](https://rocketseat.com.br/) using the following technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [Node.js](nodejs)
+- [Node.js][nodejs]
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Leaflet](https://leafletjs.com/examples/quick-start/)
