@@ -13,7 +13,7 @@
     <img alt="node" src="https://img.shields.io/badge/expo-v3.21.5-lightgrey" />
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sousapedro11/next-level-week" />
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sousapedro11/next-level-week" />
-    <a target="_blank" href="https://wakatime.com/@saousapedro11/projects/wemoihugzf?start=2020-06-01&end=2020-06-07">
+    <a target="_blank" href="https://wakatime.com/@sousapedro11/projects/wemoihugzf?start=2020-06-01">
     </a>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sousapedro11/next-level-week" />
 </p>
